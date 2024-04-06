@@ -10,7 +10,7 @@ upgrade 4
 upgrade 5
 
 upgrade 6
-upgrade 6
-upgrade 6
-upgrade 6
-upgrade 6
+upgrade 7
+upgrade 8
+upgrade 9
+upgrade 10
